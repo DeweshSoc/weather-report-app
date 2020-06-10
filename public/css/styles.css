@@ -1,0 +1,29 @@
+
+
+h1{
+    text-align: center;
+    padding-top: 7%;
+}
+
+.navbar{
+    margin-top: 7%;
+}
+
+.nav-item{
+    margin: 3% 3%;
+}
+
+.form-group{
+    margin: 3% 30%;   
+}
+
+.submit{
+    margin-top: 3%;
+    margin-left: 83%;
+}
+label{
+    margin-top: 2%;
+    margin-bottom: 0.5%;
+}
+
+
